@@ -724,12 +724,12 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Ovo*
-Number: 085789004732
-A/N: LEXXY STORE
+Number: 087878823108
+A/N: MAHROJA NUR AMIN
 
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number:087878823108
+A/N: MAHROJA NUR AMIN
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +740,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
+ • *Nama:* OJA
  • *Umur:* 18 tahun
  • *Hoby:* Turu/Game
- • *Askot:* Palembang
+ • *Askot:* Tangerang
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 087878823108
+ • *Whatsapp:* 081296785755
+ • *Instagram:* mhrj03
  `
 }
